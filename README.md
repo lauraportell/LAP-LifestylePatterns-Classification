@@ -3,7 +3,7 @@ A classifier based on convolutional neural networks to analyze egocentric images
 
 ### CITATION:
 
-P. Herruzo, L. Portell, A. Soto, B. Remeseiro (2019). Towards Objective Description of Eating, Socializing and Sedentary Lifestyle Patterns in Egocentric Images.
+P. Herruzo, L. Portell, A. Soto, B. Remeseiro (2019). Towards Objective Description of Eating, Socializing and Sedentary Lifestyle Patterns in Egocentric Images. BMVC Workshops - Workshop on Applications of Egocentric Vision (EgoApp'19), pp. 1-11. DOI: https://dx.doi.org/10.5244/C.33.348
 
 ### USAGE:
 
